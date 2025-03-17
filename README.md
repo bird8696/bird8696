@@ -37,7 +37,8 @@
 
 ---
 
-### 📢 Contact & Links
+### 📢 Contact
+📧 Email: [kthkmj00@gmail.com](mailto:kthkmj00@gmail.com)
 <p align="center">
   📧 Email: [your.email@example.com](mailto:your.email@example.com) | 🌐 Portfolio: [bird8696.github.io](https://bird8696.github.io/) | 💬 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 </p>
@@ -54,3 +55,4 @@
 ---
 
 ⭐️ **Keep Coding & Keep Learning!** 🚀
+
