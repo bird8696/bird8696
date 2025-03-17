@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200/ADD8E6/FFFFFF?text=Welcome+to+My+GitHub" alt="Banner" />
+  <img src="https://avatars.githubusercontent.com/u/99649668?v=4" alt="Profile Image" width="200" style="border-radius: 50%" />
 </p>
 
 <h2 align="center">👋 Hello, I'm TaeHyun Kim (bird8696)!</h2>
@@ -54,4 +54,3 @@
 ---
 
 ⭐️ **Keep Coding & Keep Learning!** 🚀
-
