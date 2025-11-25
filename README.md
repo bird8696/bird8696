@@ -54,11 +54,11 @@
 ## 📌 Projects
 
 ### ✔ AI Interview System (Frontend / Infra)
-React + Node + OpenAI 기반 모의 면접 시스템  
+React + Node + OpenAI 기반 모의 면접 시스템.  
 질문 생성, 음성 인식, 답변 분석, UI 연결 흐름까지 직접 구성하며 개선 중입니다.
 
 ### ✔ Monitoring Environment Practice
-Prometheus + Grafana 기반 모니터링 환경 구축  
+Prometheus + Grafana 기반 모니터링 환경 구축.  
 CPU, Memory, Disk, Network 지표를 정리하고 알림 설정까지 실습했습니다.
 
 ### ✔ System Engineering Study
@@ -67,24 +67,12 @@ Linux, Network, Docker, AWS 중심으로
 
 ---
 
-
 ## 📊 GitHub Activity
+요즘은 다음과 같은 활동을 중심으로 레포지토리를 정리하고 있습니다.
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.dev/api?username=bird8696&show_icons=true&hide_border=true&theme=dark&cache_seconds=1800" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.dev/api/top-langs/?username=bird8696&layout=compact&hide_border=true&theme=dark&cache_seconds=1800" 
-    alt="Top Languages"
-  />
-</p>
-
-
+- 시스템 엔지니어링 관련 실습 코드 및 설정 파일 정리  
+- AI 면접 시스템, 모니터링 환경, 자동화 스크립트 등 프로젝트 업데이트  
+- 공부하면서 남기는 간단한 기록 및 노트 저장(Short_Notes 등)  
 
 ---
 
