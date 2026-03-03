@@ -1,86 +1,126 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="150" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="150" style="кидth: 150px; border-radius: _faulty;" />
 </p>
 
 <h2 align="center">TaeHyun Kim</h2>
-<p align="center">Aspiring System / DevOps Engineer</p>
+<p align="center">
+  System Engineer → DevOps → Security Engineer 🚀
+</p>
 
 ---
 
 ## 👋 About Me
 안녕하세요, 김태현입니다.  
-현재 시스템 엔지니어링과 DevOps 분야를 중심으로 공부하고 있으며  
-안정적인 서비스를 운영하는 데 필요한 기본기들을 하나씩 다져가고 있습니다.
 
-- Linux 서버 운영 및 스크립트 자동화 실습  
-- Docker & Nginx 기반 서비스 구성  
-- Prometheus + Grafana를 이용한 서버 모니터링 구축  
-- AWS EC2·S3·IAM·RDS 기초 사용  
-- React + Node 기반 AI 면접 시스템 개발 중  
+현재 **System / DevOps 기반 역량을 바탕으로 정보보안 분야까지 확장**하고 있습니다.  
+안정적인 서비스를 운영하는 것에서 더 나아가  
+**"안전하게 운영하는 방법"**에 집중하고 있습니다.
 
----
-
-## 🛠 Skills & Technologies
-
-### Infra / OS
-- Linux (Ubuntu), Shell Script  
-- 시스템 로그 분석, 서비스 관리(systemd)  
-- 네트워크 기초(TCP/IP, DNS, 포트·라우팅)
-
-### DevOps / Tools
-- Docker · Docker Compose  
-- Git / GitHub Actions  
-- Nginx Reverse Proxy  
-- Prometheus · Grafana (기초)
-
-### Languages
-- Python  
-- JavaScript  
-- Java  
-- SQL  
+- Linux 기반 서버 운영 및 자동화 실습  
+- Docker · Nginx 기반 서비스 구성  
+- AWS 인프라 구축 및 보안 설정 실습  
+- 모니터링 환경 구축(Prometheus + Grafana)  
+- 네트워크 · 클라우드 · 애플리케이션 보안 학습 중  
 
 ---
 
-## 📚 What I'm Learning
+## 🎯 Career Direction
 
-- AWS 기반 서비스 운영 기본기  
-- 인프라 구조 설계 및 문서화  
-- 자동화 및 배포 파이프라인(CI/CD)  
-- 장애 대응(Runbook 작성)  
-- 컨테이너 기반 운영 환경 구성  
+> DevOps 기반을 이해하는 보안 엔지니어가 되는 것이 목표입니다.
 
----
-
-## 📌 Projects
-
-### ✔ AI Interview System (Frontend / Infra)
-React + Node + OpenAI 기반 모의 면접 시스템.  
-질문 생성, 음성 인식, 답변 분석, UI 연결 흐름까지 직접 구성하며 개선 중입니다.
-
-### ✔ Monitoring Environment Practice
-Prometheus + Grafana 기반 모니터링 환경 구축.  
-CPU, Memory, Disk, Network 지표를 정리하고 알림 설정까지 실습했습니다.
-
-### ✔ System Engineering Study
-Linux, Network, Docker, AWS 중심으로  
-시스템 엔지니어링 기초를 꾸준히 학습하고 있습니다.
+- Cloud Security
+- Security Engineering
+- SecOps
+- 취약점 진단 및 침해 대응
+- 보안 로그 분석 & 위협 탐지
 
 ---
 
-## 📊 GitHub Activity
-요즘은 다음과 같은 활동을 중심으로 레포지토리를 정리하고 있습니다.
+## 🛠 Technical Skills
 
-- 시스템 엔지니어링 관련 실습 코드 및 설정 파일 정리  
-- AI 면접 시스템, 모니터링 환경, 자동화 스크립트 등 프로젝트 업데이트  
-- 공부하면서 남기는 간단한 기록 및 노트 저장(Short_Notes 등)  
+### 💻 System / Infra
+- Linux (Ubuntu), Shell Script
+- systemd 서비스 관리
+- 로그 분석
+- TCP/IP, DNS, Port, Routing 이해
+
+### ☁ Cloud
+- AWS EC2 · S3 · IAM · RDS
+- 보안 그룹(Security Group) 설정
+- IAM 권한 관리 기초
+
+### 🔐 Security (Learning & Practicing)
+- 네트워크 보안 기초
+- 클라우드 보안 구조 이해
+- 애플리케이션 보안 개념
+- 개인정보보호 및 접근통제
+- 취약점 진단 기초
+- 모의해킹 실습 예정
+- 악성코드 분석 및 로그 기반 위협 탐지
+- 생성형 AI 기반 보안 분석 실습
+
+### ⚙ DevOps / Tools
+- Docker · Docker Compose
+- Nginx Reverse Proxy
+- Git / GitHub Actions
+- Prometheus · Grafana
+
+### 👨‍💻 Languages
+- Python
+- JavaScript
+- Java
+- SQL
+
+---
+
+## 📚 Currently Learning (2025)
+
+- 생성형 AI 활용 보안 분석
+- 머신러닝 기반 이상 탐지
+- 통합 로그 분석 및 SIEM 이해
+- 클라우드 보안 아키텍처 설계
+- 취약점 진단 및 모의해킹 실습
+- 보안 사고 대응 프로세스
+
+---
+
+## 📌 Security & Infra Projects (Planned & Ongoing)
+
+### 🔍 AI Interview System (DevOps + Security 확장 예정)
+React + Node 기반 서비스에  
+로그 수집, 접근 제어, 인증 구조 개선 예정.
+
+### 📊 Monitoring & Log Analysis Environment
+Prometheus + Grafana 기반 모니터링  
+→ 추후 보안 로그 분석 환경으로 확장 계획
+
+### 🛡 Vulnerability Practice Lab (Planned)
+- 취약한 웹 서버 구성
+- OWASP 기반 취약점 실습
+- 보안 설정 전/후 비교
+
+### ☁ Secure Cloud Architecture Practice
+- AWS 인프라 설계
+- IAM 최소 권한 정책 구성
+- 네트워크 보안 설계
+
+---
+
+## 📊 GitHub Focus
+
+- 보안 설정 실습 기록
+- 취약점 분석 보고서 정리
+- 로그 분석 스크립트
+- 클라우드 보안 아키텍처 설계 문서
+- 학습 정리(Security Notes)
 
 ---
 
 ## 📬 Contact
 - Email: **kthkmj00@gmail.com**
-
+  
 ---
 
 <p align="center">
-  꾸준히 배우고, 직접 만들어보며 성장하고 있습니다.
+  DevOps를 이해하는 보안 엔지니어로 성장하고 있습니다.
 </p>
