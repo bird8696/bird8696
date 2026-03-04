@@ -73,7 +73,7 @@
 
 ---
 
-## 📚 Currently Learning (2025)
+## 📚 Currently Learning (2026)
 
 - 생성형 AI 활용 보안 분석
 - 머신러닝 기반 이상 탐지
