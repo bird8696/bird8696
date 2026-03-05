@@ -45,7 +45,7 @@ NLTK를 활용한 자연어 처리, 정규 표현식 기반 응답 로직, 대�
 메모장, 퀴즈게임, 채팅, 날씨, 계산기 기능을 갖춘 Java 다목적 애플리케이션.
 
 ### 🎮 Choice Free Game
-이세돌을 주제로 한 JavaScript 기반 선택지 게임.
+이세계 아이돌을 주제로 한 JavaScript 기반 선택지 게임.
 
 ### 🌐 myapp - GitHub Pages 배포 테스트
 GitHub Pages를 활용한 웹사이트 배포 실습 프로젝트.
