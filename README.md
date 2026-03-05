@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">TaeHyun Kim</h2>
 <p align="center">
-  System Engineer → DevOps → Security Engineer 🚀
+  System Engineer → Security Engineer 🚀
 </p>
 
 ---
