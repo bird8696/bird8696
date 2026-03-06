@@ -39,7 +39,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-> AWS (EC2, S3, IAM, RDS) · Docker · Nginx · Linux Server
+> AWS (EC2, S3, IAM, RDS) · Docker · Linux Server
 
 ---
 
@@ -156,5 +156,5 @@ NLTK를 활용한 자연어 처리, 정규 표현식 기반 응답 로직, 대�
 ---
 
 <p align="center">
-  DevOps를 이해하는 보안 엔지니어로 성장하고 있습니다.
+  보안 엔지니어로 성장하고 있습니다.
 </p>
