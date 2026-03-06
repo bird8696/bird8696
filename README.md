@@ -21,8 +21,7 @@
 **생성형 AI를 활용한 악성코드 분석, 보안관제, 취약점 진단 및 모의해킹**까지 학습해 나가고 있습니다.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bird8696&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bird8696&theme=dark&hide_border=true&date_format=Y.n.j" />
 </p>
 
 ---
