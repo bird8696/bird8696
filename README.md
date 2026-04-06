@@ -87,15 +87,28 @@ $ cat profile.txt
 
 ## 🏆 `./certifications --show`
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  CERTIFICATION                              STATUS       │
-├─────────────────────────────────────────────────────────┤
-│  AWS Certified Cloud Practitioner (CLF-C02) [✅ PASSED] │
-│  정보처리기사                               [✅ 필기 합격] │
-│  리눅스 마스터 2급                          [✅ 필기 합격] │
-└─────────────────────────────────────────────────────────┘
-```
+<table>
+  <thead>
+    <tr>
+      <th align="left">🔖 CERTIFICATION</th>
+      <th align="center">STATUS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>AWS Certified Cloud Practitioner (CLF-C02)</code></td>
+      <td align="center">✅ <code>PASSED</code></td>
+    </tr>
+    <tr>
+      <td><code>정보처리기사</code></td>
+      <td align="center">✅ <code>필기 합격</code></td>
+    </tr>
+    <tr>
+      <td><code>리눅스 마스터 2급</code></td>
+      <td align="center">✅ <code>필기 합격</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
