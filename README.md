@@ -85,6 +85,47 @@ $ cat profile.txt
 
 ---
 
+## 🎓 `./education --history`
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">🏫 기관</th>
+      <th align="left">과정</th>
+      <th align="center">상태</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>우송대학교</code></td>
+      <td>IT융합·컴퓨터정보보안학과</td>
+      <td align="center">✅ <code>수료</code></td>
+    </tr>
+    <tr>
+      <td><code>SK쉴더스 루키즈 31기</code></td>
+      <td>생성형AI활용 사이버보안 전문인력 양성과정</td>
+      <td align="center">🔄 <code>진행 중</code></td>
+    </tr>
+    <tr>
+      <td><code>2025 기업멤버쉽 아카데미</code></td>
+      <td>SW/콘텐츠 분야</td>
+      <td align="center">✅ <code>수료</code></td>
+    </tr>
+    <tr>
+      <td><code>2024 벤처스타트업 아카데미</code></td>
+      <td>SW/콘텐츠 분야</td>
+      <td align="center">✅ <code>수료</code></td>
+    </tr>
+    <tr>
+      <td><code>비트단기 과정</code></td>
+      <td>SW 개발</td>
+      <td align="center">✅ <code>수료</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 🏆 `./certifications --show`
 
 <table>
