@@ -291,7 +291,7 @@ $ echo $CONTACT
 
 ```
 [INFO] Security is not a product, but a process.
-[INFO] 보안 엔지니어로 성장 중입니다. 🔐
+[INFO] 보안 엔지니어로 교육 진행중에 있습니다.
 ```
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bird8696.bird8696&left_color=black&right_color=00aa33)
