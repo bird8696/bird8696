@@ -259,12 +259,6 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&theme=transparent&hide_border=true&title_color=c4a0d6&icon_color=ffb3d1&text_color=a598c8&bg_color=00000000" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bird8696&layout=compact&theme=transparent&hide_border=true&title_color=c4a0d6&text_color=a598c8&bg_color=00000000" height="150"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=bird8696&theme=transparent&hide_border=true&date_format=Y.n.j&ring=c4a0d6&fire=ffb3d1&currStreakLabel=a598c8&background=00000000&stroke=e8d6ff&dates=b3c6e0&sideLabels=c4a0d6&currStreakNum=c4a0d6&sideNums=a598c8"/>
 
 <br/><br/>
