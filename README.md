@@ -34,7 +34,7 @@ certifications:
 <br/>
 
 <div align="center">
-<img src="./terminal.svg?v=2" width="100%"/>
+<img src="./terminal2.svg" width="100%"/>
 </div>
 
 <br/>
