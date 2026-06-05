@@ -3,7 +3,9 @@
 <br/>
 
 <!-- ══════════════ PROFILE ══════════════ -->
-<div align="center">
+<table width="100%">
+<tr>
+<td width="160" valign="top" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -16,36 +18,25 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=13&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
 
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+</td>
+<td width="70%" valign="top">
 
 ```yaml
 # 🧭 profile.yml
 
 name    : 김태현 (TaeHyun Kim)
 role    : Security Engineer (In Training)
-school  : 우송대학교
+school  : 우송대학교 IT융합·컴퓨터정보보안학과
 program : SK쉴더스 루키즈 31기
-```
 
-</td>
-<td width="50%" valign="top">
+focus:
+  primary : Network / Cloud / Application Security
+  special : AI-Powered Malware & Log Analysis
+            Vulnerability Assessment & Pentesting
 
-```yaml
-# 🌊 focus.yml
-
-primary : Network / Cloud / Application Security
-special : AI-Powered Malware & Log Analysis
-          Vulnerability Assessment & Pentesting
-
-certs:
+certifications:
   - ✅ AWS Cloud Practitioner (CLF-C02)
   - ✅ 정보처리기사 필기
   - ✅ 리눅스 마스터 2급 필기
