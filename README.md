@@ -8,19 +8,6 @@
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
-
-<br/><br/>
-
-**김태현 (TaeHyun Kim)**
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-C9F0FF?style=flat-square&logo=gmail&logoColor=3A8FC7)](mailto:kthkmj00@gmail.com)
-[![GitHub](https://img.shields.io/badge/bird8696-AEE8F5?style=flat-square&logo=github&logoColor=3A8FC7)](https://github.com/bird8696)
-
-<br/>
-
 </div>
 
 <br/>
