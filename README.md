@@ -16,7 +16,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=280&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=13&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
 
 </div>
 
@@ -24,22 +24,28 @@
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ```yaml
 # 🧭 profile.yml
 
 name    : 김태현 (TaeHyun Kim)
 role    : Security Engineer (In Training)
-school  : 우송대학교 IT융합·컴퓨터정보보안학과
+school  : 우송대학교
 program : SK쉴더스 루키즈 31기
+```
 
-focus:
-  primary : Network / Cloud / Application Security
-  special : AI-Powered Malware & Log Analysis
-            Vulnerability Assessment & Pentesting
+</td>
+<td width="50%" valign="top">
 
-certifications:
+```yaml
+# 🌊 focus.yml
+
+primary : Network / Cloud / Application Security
+special : AI-Powered Malware & Log Analysis
+          Vulnerability Assessment & Pentesting
+
+certs:
   - ✅ AWS Cloud Practitioner (CLF-C02)
   - ✅ 정보처리기사 필기
   - ✅ 리눅스 마스터 2급 필기
