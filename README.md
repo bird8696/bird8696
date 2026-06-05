@@ -5,7 +5,7 @@
 <!-- ══════════════ PROFILE ══════════════ -->
 <table width="100%">
 <tr>
-<td width="160" valign="top" align="center">
+<td width="220" valign="top" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
