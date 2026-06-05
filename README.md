@@ -3,9 +3,7 @@
 <br/>
 
 <!-- ══════════════ PROFILE ══════════════ -->
-<table width="100%">
-<tr>
-<td width="220" valign="top" align="center">
+<div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -13,15 +11,18 @@
 
 **김태현 (TaeHyun Kim)**
 
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-C9F0FF?style=flat-square&logo=gmail&logoColor=3A8FC7)](mailto:kthkmj00@gmail.com)
 [![GitHub](https://img.shields.io/badge/bird8696-AEE8F5?style=flat-square&logo=github&logoColor=3A8FC7)](https://github.com/bird8696)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=13&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
 
-</td>
-<td width="70%" valign="top">
+</div>
+
+<br/>
 
 ```yaml
 # 🧭 profile.yml
@@ -41,10 +42,6 @@ certifications:
   - ✅ 정보처리기사 필기
   - ✅ 리눅스 마스터 2급 필기
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
