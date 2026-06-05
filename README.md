@@ -21,8 +21,6 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=14&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
-
 </div>
 
 <br/>
@@ -49,7 +47,7 @@ certifications:
 <br/>
 
 <div align="center">
-<img src="./terminal.svg" width="100%"/>
+<img src="./terminal.svg?v=2" width="100%"/>
 </div>
 
 <br/>
