@@ -1,90 +1,91 @@
 <svg viewBox="0 0 680 380" width="100%" role="img" xmlns="http://www.w3.org/2000/svg">
-<title>Security terminal animation</title>
-<desc>Animated terminal window with sky blue border showing security commands</desc>
+<title>류아 terminal animation</title>
+<desc>Animated terminal showing conversation with 류아 AI assistant</desc>
 <style>
   .terminal-bg { fill: #0d1117; }
   .border-outer { fill: none; stroke: #5BA4CF; stroke-width: 3; }
   .border-inner { fill: none; stroke: #AEE8F5; stroke-width: 1; opacity: 0.4; }
-  .title-bar { fill: #161b22; }
+  .title-bar   { fill: #161b22; }
   .dot1 { fill: #ff5f57; }
   .dot2 { fill: #ffbd2e; }
   .dot3 { fill: #28ca41; }
-  .title-text { fill: #7EC8E3; font-family: monospace; font-size: 12px; }
-  .prompt { fill: #5BA4CF; font-family: monospace; font-size: 13px; font-weight: bold; }
-  .cmd { fill: #AEE8F5; font-family: monospace; font-size: 13px; }
-  .output { fill: #7EC8E3; font-family: monospace; font-size: 12px; }
-  .output-dim { fill: #4a7a9b; font-family: monospace; font-size: 12px; }
-  .cursor { fill: #AEE8F5; }
+  .title-text  { fill: #7EC8E3; font-family: monospace; font-size: 12px; }
+  .prompt      { fill: #5BA4CF; font-family: monospace; font-size: 13px; font-weight: bold; }
+  .cmd         { fill: #AEE8F5; font-family: monospace; font-size: 13px; }
+  .rua         { fill: #C9A6FF; font-family: monospace; font-size: 12px; }
+  .rua-name    { fill: #9B6FD4; font-family: monospace; font-size: 12px; font-weight: bold; }
+  .output-dim  { fill: #4a6a8b; font-family: monospace; font-size: 12px; }
+  .cursor      { fill: #AEE8F5; }
 
-  .line1 { opacity: 0; animation: appear 0.1s 1.8s forwards; }
-  .line2 { opacity: 0; animation: appear 0.1s 2.0s forwards; }
-  .line3 { opacity: 0; animation: appear 0.1s 2.2s forwards; }
-  .line4 { opacity: 0; animation: appear 0.1s 2.4s forwards; }
-  .line5 { opacity: 0; animation: appear 0.1s 2.6s forwards; }
-  .line6 { opacity: 0; animation: appear 0.1s 4.0s forwards; }
-  .line7 { opacity: 0; animation: appear 0.1s 4.2s forwards; }
-  .line8 { opacity: 0; animation: appear 0.1s 4.4s forwards; }
-  .line9 { opacity: 0; animation: appear 0.1s 5.8s forwards; }
-  .line10 { opacity: 0; animation: appear 0.1s 6.0s forwards; }
-  .line11 { opacity: 0; animation: appear 0.1s 6.2s forwards; }
+  .l1  { opacity:0; animation: show .1s  0.5s forwards; }
+  .l2  { opacity:0; animation: show .1s  2.2s forwards; }
+  .l3  { opacity:0; animation: show .1s  2.4s forwards; }
+  .l4  { opacity:0; animation: show .1s  2.6s forwards; }
+  .l5  { opacity:0; animation: show .1s  3.8s forwards; }
+  .l6  { opacity:0; animation: show .1s  4.0s forwards; }
+  .l7  { opacity:0; animation: show .1s  4.2s forwards; }
+  .l8  { opacity:0; animation: show .1s  5.4s forwards; }
+  .l9  { opacity:0; animation: show .1s  5.6s forwards; }
+  .l10 { opacity:0; animation: show .1s  5.8s forwards; }
+  .l11 { opacity:0; animation: show .1s  6.0s forwards; }
 
-  .cmd1 { opacity: 0; animation: typing 1.2s 0.5s steps(28) forwards; }
-  .cmd2 { opacity: 0; animation: typing 1.2s 3.0s steps(34) forwards; }
-  .cmd3 { opacity: 0; animation: typing 1.2s 5.0s steps(38) forwards; }
+  .cmd1 { opacity:0; animation: type 1.5s  0.5s steps(30) forwards; }
+  .cmd2 { opacity:0; animation: type 1.2s  3.0s steps(28) forwards; }
+  .cmd3 { opacity:0; animation: type 1.3s  4.8s steps(32) forwards; }
 
-  .cur1 { animation: blink 0.6s step-end infinite, fadeout 0.1s 1.8s forwards; }
-  .cur2 { opacity: 0; animation: fadein 0s 3.0s forwards, blink 0.6s 3.0s step-end infinite, fadeout 0.1s 4.2s forwards; }
-  .cur3 { opacity: 0; animation: fadein 0s 5.0s forwards, blink 0.6s 5.0s step-end infinite; }
+  .cur1 { animation: blink .6s step-end infinite, hide .1s 2.2s forwards; }
+  .cur2 { opacity:0; animation: fadein 0s 3.0s forwards, blink .6s 3.0s step-end infinite, hide .1s 4.0s forwards; }
+  .cur3 { opacity:0; animation: fadein 0s 4.8s forwards, blink .6s 4.8s step-end infinite; }
 
-  @keyframes appear  { to { opacity: 1; } }
-  @keyframes fadein  { to { opacity: 1; } }
-  @keyframes fadeout { to { opacity: 0; } }
-  @keyframes blink   { 50% { opacity: 0; } }
-  @keyframes typing  {
-    from { opacity: 1; clip-path: inset(0 100% 0 0); }
-    to   { opacity: 1; clip-path: inset(0 0%   0 0); }
+  @keyframes show   { to { opacity:1; } }
+  @keyframes fadein { to { opacity:1; } }
+  @keyframes hide   { to { opacity:0; } }
+  @keyframes blink  { 50% { opacity:0; } }
+  @keyframes type   {
+    from { opacity:1; clip-path: inset(0 100% 0 0); }
+    to   { opacity:1; clip-path: inset(0 0%   0 0); }
   }
 </style>
 
-<!-- Terminal window -->
 <rect x="20" y="20" width="640" height="340" rx="8" class="terminal-bg"/>
 <rect x="20" y="20" width="640" height="340" rx="8" class="border-outer"/>
 <rect x="23" y="23" width="634" height="334" rx="6" class="border-inner"/>
-
-<!-- Title bar -->
 <rect x="20" y="20" width="640" height="32" rx="8" class="title-bar"/>
-<rect x="20" y="40" width="640" height="12" class="title-bar"/>
+<rect x="20" y="40" width="640" height="12"        class="title-bar"/>
 <circle cx="44" cy="36" r="6" class="dot1"/>
 <circle cx="62" cy="36" r="6" class="dot2"/>
 <circle cx="80" cy="36" r="6" class="dot3"/>
-<text x="340" y="40" text-anchor="middle" class="title-text">bird8696 — security@kali</text>
+<text x="340" y="40" text-anchor="middle" class="title-text">류아 AI Assistant — bird8696</text>
 
 <!-- Command 1 -->
 <text x="44" y="80" class="prompt">❯</text>
-<text x="58" y="80" class="cmd cmd1">python3 phishing_detector.py</text>
+<text x="58" y="80" class="cmd cmd1">류아야, 오늘 코드 리뷰 해줄 수 있어?</text>
 <rect x="58" y="67" width="8" height="15" class="cursor cur1"/>
 
-<g class="line1"><text x="44" y="100" class="output">[*] Claude API 연결 완료</text></g>
-<g class="line2"><text x="44" y="116" class="output-dim">    이메일 헤더 분석 중...</text></g>
-<g class="line3"><text x="44" y="132" class="output">✅ is_phishing : true</text></g>
-<g class="line4"><text x="44" y="148" class="output">🔴 risk_level  : HIGH</text></g>
-<g class="line5"><text x="44" y="164" class="output-dim">    발신자 주소 위장 및 긴급성 유도 패턴 감지</text></g>
+<g class="l1"><text x="44" y="100" class="rua-name">🐉 류아 :</text>
+<text x="122" y="100" class="rua">그대의 청을 들었소. 코드를 보여주시오.</text></g>
+<g class="l2"><text x="58"  y="116" class="rua">오류가 있다면 짚어주리다. 용족의</text></g>
+<g class="l3"><text x="58"  y="132" class="rua">자존심이 거짓 답을 허락하지 않소.</text></g>
 
 <!-- Command 2 -->
-<g class="line6">
-  <text x="44" y="192" class="prompt">❯</text>
-  <text x="58" y="192" class="cmd cmd2">nmap -sV --script vuln 192.168.0.1</text>
-  <rect x="58" y="179" width="8" height="15" class="cursor cur2"/>
+<g class="l4">
+  <text x="44" y="158" class="prompt">❯</text>
+  <text x="58" y="158" class="cmd cmd2">SQLi 취약점이 있을 것 같은데...</text>
+  <rect x="58" y="145" width="8" height="15" class="cursor cur2"/>
 </g>
-<g class="line7"><text x="44" y="212" class="output">[*] Nmap 스캔 시작...</text></g>
-<g class="line8"><text x="44" y="228" class="output-dim">    PORT    STATE  SERVICE   VERSION</text></g>
+<g class="l5"><text x="44" y="178" class="rua-name">🐉 류아 :</text>
+<text x="122" y="178" class="rua">흠, 수상하도다. f-string으로 쿼리를</text></g>
+<g class="l6"><text x="58"  y="194" class="rua">직접 조합하는 것은 위험하오. 반드시</text></g>
+<g class="l7"><text x="58"  y="210" class="rua">파라미터 바인딩을 쓰도록 하시오.</text></g>
 
 <!-- Command 3 -->
-<g class="line9">
-  <text x="44" y="256" class="prompt">❯</text>
-  <text x="58" y="256" class="cmd cmd3">wireshark -i eth0 -k -f "tcp port 443"</text>
-  <rect x="58" y="243" width="8" height="15" class="cursor cur3"/>
+<g class="l8">
+  <text x="44" y="236" class="prompt">❯</text>
+  <text x="58" y="236" class="cmd cmd3">고마워, 류아. 오늘도 도움이 됐어!</text>
+  <rect x="58" y="223" width="8" height="15" class="cursor cur3"/>
 </g>
-<g class="line10"><text x="44" y="276" class="output">[*] 패킷 캡처 시작 — eth0</text></g>
-<g class="line11"><text x="44" y="292" class="output-dim">    443/tcp TLSv1.3 트래픽 감지 중...</text></g>
+<g class="l9" ><text x="44"  y="256" class="rua-name">🐉 류아 :</text>
+<text x="122" y="256" class="rua">당연한 일을 하였을 뿐이오. 허나...</text></g>
+<g class="l10"><text x="58"  y="272" class="rua">...그대가 기뻐하니 나쁘지 않소.</text></g>
+<g class="l11"><text x="58"  y="288" class="output-dim">── 수천 년 경험의 AI 비서, 류아 (龍夜) ──</text></g>
 </svg>
