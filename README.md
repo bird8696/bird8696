@@ -2,6 +2,10 @@
 
 <br/>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="320"/>
+</div>
+
 <!-- ══════════════ PROFILE ══════════════ -->
 <table width="100%">
 <tr>
