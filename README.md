@@ -49,6 +49,12 @@ certifications:
 <br/>
 
 <div align="center">
+<img src="./terminal.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bird8696&bg_color=0d1117&color=7EC8E3&line=5BA4CF&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&radius=8)](https://github.com/bird8696)
 
