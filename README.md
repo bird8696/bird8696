@@ -5,7 +5,7 @@
 <!-- ══════════════ PROFILE ══════════════ -->
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td width="160" valign="top" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -238,14 +238,14 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 - ✅ 애플리케이션 보안
 - ✅ 개인정보보호
 - ✅ 모듈 프로젝트 (2)
+- ✅ 생성형 AI를 활용한 악성코드 분석 및 대응
 
 </td>
 <td width="50%" valign="top">
 
 **진행 중 🌊 / 예정 🔜**
 
-- 🌊 **생성형 AI를 활용한 악성코드 분석 및 대응** `진행 중`
-- 🔜 AI 보안관제 및 통합로그분석
+- 🌊 **생성형 AI를 활용한 AI 보안관제 및 통합로그분석** `진행 중`
 - 🔜 취약점 진단 및 모의해킹
 - 🔜 최종 실무 프로젝트
 
