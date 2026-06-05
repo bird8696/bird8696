@@ -3,7 +3,9 @@
 <br/>
 
 <!-- ══════════════ PROFILE ══════════════ -->
-<div align="center">
+<table width="100%">
+<tr>
+<td width="30%" valign="top" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -11,18 +13,15 @@
 
 **김태현 (TaeHyun Kim)**
 
-<br/>
-
 [![Gmail](https://img.shields.io/badge/Gmail-C9F0FF?style=flat-square&logo=gmail&logoColor=3A8FC7)](mailto:kthkmj00@gmail.com)
 [![GitHub](https://img.shields.io/badge/bird8696-AEE8F5?style=flat-square&logo=github&logoColor=3A8FC7)](https://github.com/bird8696)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=13&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
 
-<br/>
-
-</div>
+</td>
+<td width="70%" valign="top">
 
 ```yaml
 # 🧭 profile.yml
@@ -43,6 +42,10 @@ certifications:
   - ✅ 리눅스 마스터 2급 필기
 ```
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 <!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
@@ -55,7 +58,8 @@ certifications:
 <br/>
 
 <!-- ══════════════ SKILLS ══════════════ -->
-## 🌊 Skills
+
+$${\color{#7EC8E3}🌊 \space \color{#AEE8F5}Skills}$$
 
 <div align="center">
 
@@ -99,7 +103,8 @@ certifications:
 <br/>
 
 <!-- ══════════════ STATS ══════════════ -->
-## 📊 Stats
+
+$${\color{#7EC8E3}📊 \space \color{#AEE8F5}Stats}$$
 
 <div align="center">
 
@@ -130,13 +135,14 @@ certifications:
 <br/>
 
 <!-- ══════════════ PROJECTS ══════════════ -->
-## 🛠️ Projects
+
+$${\color{#7EC8E3}🛠️ \space \color{#AEE8F5}Projects}$$
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 AutoGuard AI
+$${\color{#5BA4CF}🔐 \space \color{#7EC8E3}AutoGuard \space AI}$$
 `팀 프로젝트 · BE Lead`
 
 ![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
@@ -149,7 +155,7 @@ certifications:
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ 피싱 이메일 탐지기
+$${\color{#5BA4CF}🛡️ \space \color{#7EC8E3}피싱 \space 이메일 \space 탐지기}$$
 
 ![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-B8F0E8?style=flat-square&logo=fastapi&logoColor=3A9080)
@@ -162,7 +168,7 @@ Claude AI 기반 Zero-Shot 피싱 탐지 API. 위험도 3단계 분류 `LOW` `ME
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI 보안 위협 탐지 대시보드
+$${\color{#5BA4CF}🤖 \space \color{#7EC8E3}AI \space 보안 \space 위협 \space 탐지 \space 대시보드}$$
 
 ![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
 ![Streamlit](https://img.shields.io/badge/Streamlit-AEE8F5?style=flat-square&logo=streamlit&logoColor=3A8FC7)
@@ -175,7 +181,7 @@ KDD Cup 99 + RandomForest + Claude API 기반 AI 보안 위협 탐지 시스템.
 </td>
 <td width="50%" valign="top">
 
-### 📊 KTX 연착 예측 대시보드
+$${\color{#5BA4CF}📊 \space \color{#7EC8E3}KTX \space 연착 \space 예측 \space 대시보드}$$
 
 ![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-B8E8F0?style=flat-square&logo=scikitlearn&logoColor=3A8FC7)
@@ -191,7 +197,7 @@ Korail API + scikit-learn KTX 연착 예측. GitHub Actions 자동 배포.
 <tr>
 <td width="50%" valign="top">
 
-### 🎤 AI 면접 시뮬레이터
+$${\color{#5BA4CF}🎤 \space \color{#7EC8E3}AI \space 면접 \space 시뮬레이터}$$
 `졸업 캡스톤`
 
 ![JS](https://img.shields.io/badge/JavaScript-C9F0FF?style=flat-square&logo=javascript&logoColor=3A8FC7)
@@ -202,7 +208,7 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 </td>
 <td width="50%" valign="top">
 
-### 🧭 기타 프로젝트
+$${\color{#5BA4CF}🧭 \space \color{#7EC8E3}기타 \space 프로젝트}$$
 
 | 프로젝트 | 기술 |
 |----------|------|
@@ -218,7 +224,8 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 <br/>
 
 <!-- ══════════════ ROADMAP ══════════════ -->
-## 🗺️ Roadmap @ SK쉴더스 루키즈 31기
+
+$${\color{#7EC8E3}🗺️ \space \color{#AEE8F5}Roadmap \space \color{#C9F0FF}@ \space SK쉴더스 \space 루키즈 \space 31기}$$
 
 <table align="center" width="80%">
 <tr>
