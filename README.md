@@ -1,13 +1,12 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9F0FF,40:7EC8E3,100:3A8FC7&height=280&section=header&text=Kim%20TaeHyun&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=🧭%20Security%20Engineer%20in%20Training%20🌊&descAlignY=65&descSize=16&descColor=dff5ff&animation=fadeIn" width="100%"/>
 
-<!-- ══════════════ PROFILE ══════════════ -->
+<br/>
 
-| <div align="center"><img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="380"/></div> |
-|:---:|
+<img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="380"/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+<br/><br/>
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -15,15 +14,18 @@
 
 **김태현 (TaeHyun Kim)**
 
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-C9F0FF?style=flat-square&logo=gmail&logoColor=3A8FC7)](mailto:kthkmj00@gmail.com)
 [![GitHub](https://img.shields.io/badge/bird8696-AEE8F5?style=flat-square&logo=github&logoColor=3A8FC7)](https://github.com/bird8696)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=14&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
 
-</td>
-<td width="50%" valign="top">
+</div>
+
+<br/>
 
 ```yaml
 # 🧭 profile.yml
@@ -44,19 +46,8 @@ certifications:
   - ✅ 리눅스 마스터 2급 필기
 ```
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<div align="center">
-<img src="./terminal.svg" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bird8696&bg_color=0d1117&color=7EC8E3&line=5BA4CF&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&radius=8)](https://github.com/bird8696)
@@ -64,8 +55,6 @@ certifications:
 </div>
 
 <br/>
-
-<!-- ══════════════ SKILLS ══════════════ -->
 
 $${\color{#7EC8E3}🌊 \space \color{#AEE8F5}Skills}$$
 
@@ -110,39 +99,35 @@ $${\color{#7EC8E3}🌊 \space \color{#AEE8F5}Skills}$$
 
 <br/>
 
-<!-- ══════════════ STATS ══════════════ -->
-
-$${\color{#7EC8E3}📊 \space \color{#AEE8F5}Stats}$$
+$${\color{#7EC8E3}🎓 \space \color{#AEE8F5}Education}$$
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bird8696&theme=transparent&hide_border=true&date_format=Y.n.j&ring=5BA4CF&fire=7EC8E3&currStreakLabel=4A90B8&background=00000000&stroke=AEE8F5&dates=7EC8E3&sideLabels=5BA4CF&currStreakNum=5BA4CF&sideNums=4A90B8)](https://git.io/streak-stats)
-
-</td>
-<td align="center" width="50%">
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bird8696&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-[![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bird8696&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</td>
-</tr>
-</table>
+|  | 기관 | 과정 | 상태 |
+|:---:|------|------|:---:|
+| 🏫 | 우송대학교 | IT융합 · 컴퓨터정보보안학과 | ✅ |
+| 🌊 | **SK쉴더스 루키즈 31기** | 생성형AI활용 사이버보안 전문인력 양성과정 | 🔄 |
+| ⭐ | 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | ✅ |
+| ⭐ | 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | ✅ |
+| ⭐ | 비트단기 과정 | SW 개발 | ✅ |
 
 </div>
 
 <br/>
 
-<!-- ══════════════ PROJECTS ══════════════ -->
+$${\color{#7EC8E3}🏅 \space \color{#AEE8F5}Certifications}$$
+
+<div align="center">
+
+| 　 | 자격증 | 상태 |
+|:---:|--------|:----:|
+| ☁️ | AWS Certified Cloud Practitioner (CLF-C02) | ✨ PASSED |
+| 📋 | 정보처리기사 | ✨ 필기 합격 |
+| 🐧 | 리눅스 마스터 2급 | ✨ 필기 합격 |
+
+</div>
+
+<br/>
 
 $${\color{#7EC8E3}🛠️ \space \color{#AEE8F5}Projects}$$
 
@@ -231,8 +216,6 @@ $${\color{#5BA4CF}🧭 \space \color{#7EC8E3}기타 \space 프로젝트}$$
 
 <br/>
 
-<!-- ══════════════ ROADMAP ══════════════ -->
-
 $${\color{#7EC8E3}🗺️ \space \color{#AEE8F5}Roadmap \space \color{#C9F0FF}@ \space SK쉴더스 \space 루키즈 \space 31기}$$
 
 <table align="center" width="80%">
@@ -267,8 +250,13 @@ $${\color{#7EC8E3}🗺️ \space \color{#AEE8F5}Roadmap \space \color{#C9F0FF}@ 
 
 <br/>
 
-<!-- ══════════════ FOOTER ══════════════ -->
+$${\color{#7EC8E3}📊 \space \color{#AEE8F5}Stats}$$
+
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bird8696&theme=transparent&hide_border=true&date_format=Y.n.j&ring=5BA4CF&fire=7EC8E3&currStreakLabel=4A90B8&background=00000000&stroke=AEE8F5&dates=7EC8E3&sideLabels=5BA4CF&currStreakNum=5BA4CF&sideNums=4A90B8)](https://git.io/streak-stats)
+
+<br/><br/>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bird8696.bird8696&left_color=5BA4CF&right_color=7EC8E3&left_text=🧭+visitors)
 
