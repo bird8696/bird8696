@@ -1,17 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9F0FF,40:7EC8E3,100:3A8FC7&height=280&section=header&text=Kim%20TaeHyun&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=🧭%20Security%20Engineer%20in%20Training%20🌊&descAlignY=65&descSize=16&descColor=dff5ff&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="320"/>
-</p>
-
-<br/>
-
 <!-- ══════════════ PROFILE ══════════════ -->
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td colspan="2" align="center">
+<img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="400"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -27,7 +24,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
 
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ```yaml
 # 🧭 profile.yml
