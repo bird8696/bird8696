@@ -48,6 +48,12 @@ certifications:
 
 <br/>
 
+<div align="center">
+<img src="./terminal.svg" width="100%"/>
+</div>
+
+<br/>
+
 <!-- ══════════════ ACTIVITY GRAPH ══════════════ -->
 <div align="center">
 
