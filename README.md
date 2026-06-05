@@ -20,9 +20,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=13&pause=1000&color=5BA4CF&center=true&vCenter=true&width=400&lines=🔐+Network+·+Cloud+·+Application+Security;🤖+AI-Powered+Threat+Detection;🛡️+Vulnerability+Analysis+%26+Pentesting;✨+SK+Shields+Rookies+31st)
 
-</div>
-
 <br/>
+
+</div>
 
 ```yaml
 # 🧭 profile.yml
