@@ -3,9 +3,7 @@
 <br/>
 
 <!-- ══════════════ PROFILE ══════════════ -->
-<table width="100%">
-<tr>
-<td width="160" valign="top" align="center">
+<div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/99649668?v=4" width="130" style="border-radius:50%"/>
 
@@ -18,10 +16,15 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=230&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=12&pause=1000&color=5BA4CF&center=true&vCenter=true&width=280&lines=🔐+Security+Engineer;🤖+AI+Threat+Detection;🛡️+Pentesting;✨+SK+Shields+31st)
 
-</td>
-<td width="70%" valign="top">
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 ```yaml
 # 🧭 profile.yml
