@@ -1,12 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9F0FF,40:7EC8E3,100:3A8FC7&height=280&section=header&text=Kim%20TaeHyun&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=🧭%20Security%20Engineer%20in%20Training%20🌊&descAlignY=65&descSize=16&descColor=dff5ff&animation=fadeIn" width="100%"/>
 
 <!-- ══════════════ PROFILE ══════════════ -->
+
+| <div align="center"><img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="380"/></div> |
+|:---:|
+
 <table width="100%">
-<tr>
-<td colspan="2" align="center">
-<img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="400"/>
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
