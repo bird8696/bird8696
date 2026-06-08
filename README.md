@@ -51,40 +51,7 @@ $${\color{#7EC8E3}🌊 \space \color{#AEE8F5}Skills}$$
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**💻 Languages**
-
-[![Skills](https://skillicons.dev/icons?i=python,js,java,mysql&theme=light)](https://skillicons.dev)
-
-</td>
-<td align="center" width="33%">
-
-**☁️ Cloud / Infra**
-
-[![Skills](https://skillicons.dev/icons?i=aws,docker,linux,fastapi&theme=light)](https://skillicons.dev)
-
-</td>
-<td align="center" width="33%">
-
-**🔐 Security**
-
-[![Skills](https://skillicons.dev/icons?i=kali,vscode,git,github&theme=light)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-C9F0FF?style=flat-square)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-AEE8F5?style=flat-square)
-![API Security](https://img.shields.io/badge/API_Security-B8E8F0?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-C9F0FF?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-7EC8E3?style=flat-square&logo=wireshark&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-5BA4CF?style=flat-square&logo=virustotal&logoColor=white)
+<img src="https://github.com/user-attachments/assets/68554f47-f6b4-4b08-9e25-530d951e5fa1" width="100%"/>
 
 </div>
 
