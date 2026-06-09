@@ -13,7 +13,7 @@
 <br/>
 
 ```yaml
-# 🧭 profile.yml
+# 🧭 주인장 profile.yml
 
 name    : 김태현 (TaeHyun Kim)
 role    : Security Engineer (In Training)
