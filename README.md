@@ -1,225 +1,98 @@
-<div align="center">
+# 김태현 (TaeHyun Kim)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9F0FF,40:7EC8E3,100:3A8FC7&height=280&section=header&text=Ryua&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=🧭%20Security%20Engineer%20in%20Training%20🌊&descAlignY=65&descSize=16&descColor=dff5ff&animation=fadeIn" width="100%"/>
+**Security Engineer (In Training)**
+우송대학교 IT융합·컴퓨터정보보안학과 · SK쉴더스 루키즈 31기
 
-<br/>
+생성형 AI를 활용한 사이버보안에 관심이 있습니다. Network / Cloud / Application Security를 기반으로, AI 기반 악성코드·로그 분석과 모의해킹을 학습하고 있습니다.
 
-<img src="https://github.com/user-attachments/assets/618d5a48-073f-4644-b1c3-d4ba64aa09bd" width="380"/>
+---
 
-<br/><br/>
+## Skills
 
-</div>
+**Language & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/>
+**AI / ML**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-```yaml
-# 🧭 주인장 profile.yml
+**Security & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-name    : 김태현 (TaeHyun Kim)
-role    : Security Engineer (In Training)
-school  : 우송대학교 IT융합·컴퓨터정보보안학과
-program : SK쉴더스 루키즈 31기
+---
 
-focus:
-  primary : Network / Cloud / Application Security
-  special : AI-Powered Malware & Log Analysis
-            Vulnerability Assessment & Pentesting
+## Education
 
-certifications:
-  - ✅ AWS Cloud Practitioner (CLF-C02)
-  - ✅ 정보처리기사 필기
-  - ✅ 리눅스 마스터 2급 필기
-```
+| 기관 | 과정 | 상태 |
+|------|------|:---:|
+| 우송대학교 | IT융합 · 컴퓨터정보보안학과 | 재학 |
+| SK쉴더스 루키즈 31기 | 생성형 AI 활용 사이버보안 전문인력 양성과정 | 진행 중 |
+| 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | 수료 |
+| 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | 수료 |
 
-<br/>
+---
 
-<div align="center">
-<img src="./terminal2.svg" width="100%"/>
-</div>
+## Certifications
 
-<br/>
+| 자격증 | 상태 |
+|--------|:----:|
+| AWS Certified Cloud Practitioner (CLF-C02) | 취득 |
+| 정보처리기사 | 필기 합격 |
+| 리눅스 마스터 2급 | 필기 합격 |
 
-<div align="center">
+---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bird8696&bg_color=0d1117&color=7EC8E3&line=5BA4CF&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&radius=8)](https://github.com/bird8696)
+## Projects
 
-</div>
-
-<br/>
-
-$${\color{#7EC8E3}🌊 \space \color{#AEE8F5}Skills}$$
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/68554f47-f6b4-4b08-9e25-530d951e5fa1" width="100%"/>
-
-</div>
-
-<br/>
-
-$${\color{#7EC8E3}🎓 \space \color{#AEE8F5}Education}$$
-
-<div align="center">
-
-|  | 기관 | 과정 | 상태 |
-|:---:|------|------|:---:|
-| 🏫 | 우송대학교 | IT융합 · 컴퓨터정보보안학과 | ✅ |
-| 🌊 | **SK쉴더스 루키즈 31기** | 생성형AI활용 사이버보안 전문인력 양성과정 | 🔄 |
-| ⭐ | 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | ✅ |
-| ⭐ | 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | ✅ |
-| ⭐ | 비트단기 과정 | SW 개발 | ✅ |
-
-</div>
-
-<br/>
-
-$${\color{#7EC8E3}🏅 \space \color{#AEE8F5}Certifications}$$
-
-<div align="center">
-
-| 　 | 자격증 | 상태 |
-|:---:|--------|:----:|
-| ☁️ | AWS Certified Cloud Practitioner (CLF-C02) | ✨ PASSED |
-| 📋 | 정보처리기사 | ✨ 필기 합격 |
-| 🐧 | 리눅스 마스터 2급 | ✨ 필기 합격 |
-
-</div>
-
-<br/>
-
-$${\color{#7EC8E3}🛠️ \space \color{#AEE8F5}Projects}$$
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-$${\color{#5BA4CF}🔐 \space \color{#7EC8E3}AutoGuard \space AI}$$
-`팀 프로젝트 · BE Lead`
-
-![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
-![FastAPI](https://img.shields.io/badge/FastAPI-B8F0E8?style=flat-square&logo=fastapi&logoColor=3A9080)
-![Claude](https://img.shields.io/badge/Claude_API-C9F0FF?style=flat-square&logo=anthropic&logoColor=3A8FC7)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-7EC8E3?style=flat-square&logo=virustotal&logoColor=white)
-
+### AutoGuard AI `팀 프로젝트 · BE Lead`
 멀티 에이전트 오케스트레이션 기반 보안 위협 자동 분석 플랫폼. VirusTotal · SafeBrowsing API · GPT-4o-mini RAG 통합.
+`Python` `FastAPI` `Claude API` `VirusTotal`
 
-</td>
-<td width="50%" valign="top">
+### 피싱 이메일 탐지기
+Claude AI 기반 Zero-Shot 피싱 탐지 API. 위험도 3단계 분류(LOW / MEDIUM / HIGH) · Swagger UI 제공.
+`Python` `FastAPI` `Claude API`
 
-$${\color{#5BA4CF}🛡️ \space \color{#7EC8E3}피싱 \space 이메일 \space 탐지기}$$
-
-![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
-![FastAPI](https://img.shields.io/badge/FastAPI-B8F0E8?style=flat-square&logo=fastapi&logoColor=3A9080)
-![Claude](https://img.shields.io/badge/Claude_API-C9F0FF?style=flat-square&logo=anthropic&logoColor=3A8FC7)
-
-Claude AI 기반 Zero-Shot 피싱 탐지 API. 위험도 3단계 분류 `LOW` `MEDIUM` `HIGH` · Swagger UI 제공.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-$${\color{#5BA4CF}🤖 \space \color{#7EC8E3}AI \space 보안 \space 위협 \space 탐지 \space 대시보드}$$
-
-![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
-![Streamlit](https://img.shields.io/badge/Streamlit-AEE8F5?style=flat-square&logo=streamlit&logoColor=3A8FC7)
-![Claude](https://img.shields.io/badge/Claude_API-C9F0FF?style=flat-square&logo=anthropic&logoColor=3A8FC7)
-
+### AI 보안 위협 탐지 대시보드
 [`bird8696/ai-security-dashboard`](https://github.com/bird8696/ai-security-dashboard)
-
 KDD Cup 99 + RandomForest + Claude API 기반 AI 보안 위협 탐지 시스템.
+`Python` `Streamlit` `Claude API`
 
-</td>
-<td width="50%" valign="top">
+### KTX 연착 예측 대시보드
+[`ktx-delay-predictor.streamlit.app`](https://ktx-delay-predictor.streamlit.app)
+Korail API + scikit-learn 기반 KTX 연착 예측. GitHub Actions 자동 배포.
+`Python` `scikit-learn` `Streamlit` `GitHub Actions`
 
-$${\color{#5BA4CF}📊 \space \color{#7EC8E3}KTX \space 연착 \space 예측 \space 대시보드}$$
+### AI 면접 시뮬레이터 `졸업 캡스톤`
+GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평가. (담당: API 연동 및 AI 기능 구현)
+`JavaScript` `Python`
 
-![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-B8E8F0?style=flat-square&logo=scikitlearn&logoColor=3A8FC7)
-![Streamlit](https://img.shields.io/badge/Streamlit-AEE8F5?style=flat-square&logo=streamlit&logoColor=3A8FC7)
-![Actions](https://img.shields.io/badge/Actions-C9F0FF?style=flat-square&logo=githubactions&logoColor=3A8FC7)
+---
 
-🌐 [`ktx-delay-predictor.streamlit.app`](https://ktx-delay-predictor.streamlit.app)
+## Roadmap @ SK쉴더스 루키즈 31기
 
-Korail API + scikit-learn KTX 연착 예측. GitHub Actions 자동 배포.
+**완료**
+- Git / Notion 활용법
+- 생성형 AI 활용 파이썬
+- 머신러닝 & 딥러닝
+- 모듈 프로젝트 (1)
+- 네트워크 보안
+- 클라우드 보안
+- 애플리케이션 보안
+- 개인정보보호
+- 모듈 프로젝트 (2)
+- 생성형 AI를 활용한 악성코드 분석 및 대응
+- 생성형 AI를 활용한 AI 보안관제 및 통합 로그 분석
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**진행 중 / 예정**
+- 생성형 AI를 활용한 취약점 진단 및 모의해킹 `진행 중`
+- 최종 실무 프로젝트 `예정`
 
-$${\color{#5BA4CF}🎤 \space \color{#7EC8E3}AI \space 면접 \space 시뮬레이터}$$
-`졸업 캡스톤`
+---
 
-![JS](https://img.shields.io/badge/JavaScript-C9F0FF?style=flat-square&logo=javascript&logoColor=3A8FC7)
-![Python](https://img.shields.io/badge/Python-AEE8F5?style=flat-square&logo=python&logoColor=3A8FC7)
-
-GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평가. **담당: API 연동 및 AI 기능 구현**
-
-</td>
-<td width="50%" valign="top">
-
-$${\color{#5BA4CF}🧭 \space \color{#7EC8E3}기타 \space 프로젝트}$$
-
-| 프로젝트 | 기술 |
-|----------|------|
-| 🎙️ 음성 인식 프로그램 | Python |
-| 🤖 Tabi 챗봇 (NLTK) | Python · Tkinter |
-| 📱 Short Notes | Java · Android |
-| 🎮 Choice Free Game | JavaScript |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-$${\color{#7EC8E3}🗺️ \space \color{#AEE8F5}Roadmap \space \color{#C9F0FF}@ \space SK쉴더스 \space 루키즈 \space 31기}$$
-
-<table align="center" width="80%">
-<tr>
-<td width="50%" valign="top">
-
-**완료 ✅**
-
-- ✅ Git / Notion 활용법
-- ✅ 생성형 AI 활용 파이썬
-- ✅ 머신러닝 & 딥러닝
-- ✅ 모듈 프로젝트 (1)
-- ✅ 네트워크 보안
-- ✅ 클라우드 보안
-- ✅ 애플리케이션 보안
-- ✅ 개인정보보호
-- ✅ 모듈 프로젝트 (2)
-- ✅ 생성형 AI를 활용한 악성코드 분석 및 대응
-
-</td>
-<td width="50%" valign="top">
-
-**진행 중 🌊 / 예정 🔜**
-
-- 🌊 **생성형 AI를 활용한 AI 보안관제 및 통합로그분석** `진행 중`
-- 🔜 취약점 진단 및 모의해킹
-- 🔜 최종 실무 프로젝트
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-$${\color{#7EC8E3}📊 \space \color{#AEE8F5}Stats}$$
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bird8696&theme=transparent&hide_border=true&date_format=Y.n.j&ring=5BA4CF&fire=7EC8E3&currStreakLabel=4A90B8&background=00000000&stroke=AEE8F5&dates=7EC8E3&sideLabels=5BA4CF&currStreakNum=5BA4CF&sideNums=4A90B8)](https://git.io/streak-stats)
-
-<br/><br/>
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bird8696.bird8696&left_color=5BA4CF&right_color=7EC8E3&left_text=🧭+visitors)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A8FC7,40:7EC8E3,100:C9F0FF&height=130&section=footer&text=🌊%20thanks%20for%20visiting%20🧭&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=default)](https://github.com/bird8696)
