@@ -1,8 +1,14 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a472a&height=200&section=header&text=TaeHyun%20Kim&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=root@security:~$%20whoami&descAlignY=55&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003b2f,100:00ff9d&height=220&section=header&text=TaeHyun%20Kim&fontSize=46&fontColor=00ff41&fontAlignY=32&desc=root@security:~$%20whoami&descAlignY=52&descSize=18&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Engineer+(In+Training);SK%EC%89%B4%EB%8D%94%EC%8A%A4+%EB%A3%A8%ED%82%A4%EC%A6%88+31%EA%B8%B0;AI+%EA%B8%B0%EB%B0%98+%EB%B3%B4%EC%95%88%EA%B4%80%EC%9C%A0+%26+%EB%A1%9C%EA%B7%B8+%EB%B6%84%EC%84%9D+%EC%A4%91" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+(In+Training);SK%EC%89%B4%EB%8D%94%EC%8A%A4+%EB%A3%A8%ED%82%A4%EC%A6%88+31%EA%B8%B0;AI+%EA%B8%B0%EB%B0%98+%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9C+%26+%EB%A1%9C%EA%B7%B8+%EB%B6%84%EC%84%9D+%EC%A4%91;Now+Booting%3A+Final+Project+-+SOC+Monitoring..." alt="Typing SVG" />
+
+![Visitors](https://komarev.com/ghpvc/?username=bird8696&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black)
+![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL_3-00E5FF?style=for-the-badge&logo=authelia&logoColor=black)
+![Mission](https://img.shields.io/badge/MISSION-SOC_MONITORING-FF2FD8?style=for-the-badge&logo=datadog&logoColor=white)
 
 </div>
 
@@ -27,22 +33,22 @@
 
 **Language & Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **AI / ML**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Security & Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -102,8 +108,10 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 
 ## `$ ./roadmap --status` @ SK쉴더스 루키즈 31기
 
+![Progress](https://img.shields.io/badge/PROGRESS-12%2F13_MODULES-00ff9d?style=for-the-badge&logo=checkmarx&logoColor=black)
+
 ```text
-[███████████████████████████░░] 12/13 modules complete
+[███████████████████████████░░] 92%
 ```
 
 **✅ 완료**
@@ -125,10 +133,24 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 
 ---
 
+## `$ ./stats --verbose`
+
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=dracula)](https://github.com/bird8696)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bird8696&hide_border=true&theme=dracula)](https://github.com/bird8696)
+<img src="https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=dracula&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bird8696&layout=compact&hide_border=true&theme=dracula" width="38%" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=bird8696&hide_border=true&theme=dracula" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=bird8696&theme=dracula&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:003b2f,100:0d1117&height=100&section=footer)
 
 `connection secure // profile terminated with exit code 0`
 
