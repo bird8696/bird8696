@@ -169,12 +169,10 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true&border_color=00ff9d" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bird8696&layout=compact&hide_border=true&theme=chartreuse-dark&border_color=00ff9d" width="38%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=chartreuse-dark&border_color=00ff9d" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bird8696&layout=compact&hide_border=true&theme=chartreuse-dark&border_color=00ff9d" width="38%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=bird8696&theme=dark&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakNum=00ff9d&sideNums=00e5ff&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e&border=00ff9d" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=bird8696&theme=matrix&no-frame=true&row=1&column=6" width="100%" alt="Trophies" />
 
 </div>
 
