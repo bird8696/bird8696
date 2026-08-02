@@ -1,82 +1,112 @@
-# 김태현 (TaeHyun Kim)
+<div align="center">
 
-**Security Engineer (In Training)**
-우송대학교 IT융합·컴퓨터정보보안학과 · SK쉴더스 루키즈 31기
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a472a&height=200&section=header&text=TaeHyun%20Kim&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=root@security:~$%20whoami&descAlignY=55&descSize=18&animation=fadeIn)
 
-생성형 AI를 활용한 사이버보안에 관심이 있습니다. Network / Cloud / Application Security를 기반으로, AI 기반 악성코드·로그 분석과 모의해킹을 학습하고 있습니다.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Security+Engineer+(In+Training);SK%EC%89%B4%EB%8D%94%EC%8A%A4+%EB%A3%A8%ED%82%A4%EC%A6%88+31%EA%B8%B0;AI+%EA%B8%B0%EB%B0%98+%EB%B3%B4%EC%95%88%EA%B4%80%EC%9C%A0+%26+%EB%A1%9C%EA%B7%B8+%EB%B6%84%EC%84%9D+%EC%A4%91" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## Skills
+## `$ cat about_me.txt`
+
+```bash
+> 생성형 AI를 활용한 사이버보안에 관심이 있습니다.
+> Network / Cloud / Application Security를 기반으로,
+> AI 기반 악성코드·로그 분석과 모의해킹을 학습하고 있습니다.
+>
+> 현재 SK쉴더스 루키즈 31기 과정에서
+> 최종 실무 프로젝트(보안관제)를 진행 중입니다.
+```
+
+**우송대학교 IT융합·컴퓨터정보보안학과 · SK쉴더스 루키즈 31기**
+
+---
+
+## `$ ls -la ./skills`
 
 **Language & Backend**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI / ML**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Security & Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Education
+## `$ cat education.log`
 
 | 기관 | 과정 | 상태 |
 |------|------|:---:|
-| 우송대학교 | IT융합 · 컴퓨터정보보안학과 | 수료 |
-| SK쉴더스 루키즈 31기 | 생성형 AI 활용 사이버보안 전문인력 양성과정 | 진행 중 |
-| 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | 수료 |
-| 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | 수료 |
+| 우송대학교 | IT융합 · 컴퓨터정보보안학과 | ✅ 수료 |
+| SK쉴더스 루키즈 31기 | 생성형 AI 활용 사이버보안 전문인력 양성과정 | 🟢 진행 중 |
+| 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | ✅ 수료 |
+| 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | ✅ 수료 |
 
 ---
 
-## Certifications
+## `$ cat certifications.log`
 
 | 자격증 | 상태 |
 |--------|:----:|
-| AWS Certified Cloud Practitioner (CLF-C02) | 취득 |
-| 정보처리기사 | 필기 합격 |
-| 리눅스 마스터 2급 | 필기 합격 |
+| AWS Certified Cloud Practitioner (CLF-C02) | ✅ 취득 |
+| 정보처리기사 | 🟡 필기 합격 |
+| 리눅스 마스터 2급 | 🟡 필기 합격 |
 
 ---
 
-## Projects
+## `$ ls -la ./projects`
 
-### AutoGuard AI `팀 프로젝트 · BE Lead`
+### 🛡️ AutoGuard AI `팀 프로젝트 · BE Lead`
 멀티 에이전트 오케스트레이션 기반 보안 위협 자동 분석 플랫폼. VirusTotal · SafeBrowsing API · GPT-4o-mini RAG 통합.
+
 `Python` `FastAPI` `Claude API` `VirusTotal`
 
-### 피싱 이메일 탐지기
+### 🎣 피싱 이메일 탐지기
 Claude AI 기반 Zero-Shot 피싱 탐지 API. 위험도 3단계 분류(LOW / MEDIUM / HIGH) · Swagger UI 제공.
+
 `Python` `FastAPI` `Claude API`
 
-### AI 보안 위협 탐지 대시보드
+### 🖥️ AI 보안 위협 탐지 대시보드
 [`bird8696/ai-security-dashboard`](https://github.com/bird8696/ai-security-dashboard)
+
 KDD Cup 99 + RandomForest + Claude API 기반 AI 보안 위협 탐지 시스템.
+
 `Python` `Streamlit` `Claude API`
 
-### KTX 연착 예측 대시보드
+### 🚄 KTX 연착 예측 대시보드
 [`ktx-delay-predictor.streamlit.app`](https://ktx-delay-predictor.streamlit.app)
+
 Korail API + scikit-learn 기반 KTX 연착 예측. GitHub Actions 자동 배포.
+
 `Python` `scikit-learn` `Streamlit` `GitHub Actions`
 
-### AI 면접 시뮬레이터 `졸업 캡스톤`
+### 🎤 AI 면접 시뮬레이터 `졸업 캡스톤`
 GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평가. (담당: API 연동 및 AI 기능 구현)
+
 `JavaScript` `Python`
 
 ---
 
-## Roadmap @ SK쉴더스 루키즈 31기
+## `$ ./roadmap --status` @ SK쉴더스 루키즈 31기
 
-**완료**
+```text
+[███████████████████████████░░] 12/13 modules complete
+```
+
+**✅ 완료**
 - Git / Notion 활용법
 - 생성형 AI 활용 파이썬
 - 머신러닝 & 딥러닝
@@ -88,11 +118,18 @@ GPT-4 · LangChain · Web Speech API · MediaPipe 활용 실시간 AI 면접 평
 - 모듈 프로젝트 (2)
 - 생성형 AI를 활용한 악성코드 분석 및 대응
 - 생성형 AI를 활용한 AI 보안관제 및 통합 로그 분석
+- 생성형 AI를 활용한 취약점 진단 및 모의해킹
 
-**진행 중 / 예정**
-- 생성형 AI를 활용한 취약점 진단 및 모의해킹 `진행 중`
-- 최종 실무 프로젝트 `예정`
+**🟢 진행 중**
+- 최종 실무 프로젝트 (보안관제) `진행 중`
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=default)](https://github.com/bird8696)
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=dracula)](https://github.com/bird8696)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bird8696&hide_border=true&theme=dracula)](https://github.com/bird8696)
+
+`connection secure // profile terminated with exit code 0`
+
+</div>
