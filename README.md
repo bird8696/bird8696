@@ -36,7 +36,7 @@ $ whoami
 ┌─────────────────────────────────────────────────────────────┐
 │  NAME     : Kim TaeHyun                                     │
 │  ROLE     : Security Engineer (In Training)                 │
-│  UNIT     : SK쉴더스 루키즈 31기                              │
+│  UNIT     : SK쉴더스 루키즈 31기                                │
 │  FOCUS    : AI-Based SOC · Log Analysis · Malware Detection │
 │  STACK    : Python · FastAPI · Claude API · AWS · Linux     │
 │  STATUS   : Final Project — SOC Monitoring [IN PROGRESS]    │
