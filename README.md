@@ -1,22 +1,22 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:003b2f,100:00ff9d&height=220&section=header&text=TaeHyun%20Kim&fontSize=46&fontColor=00ff41&fontAlignY=32&desc=root%40security%3A~%24%20whoami&descAlignY=52&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a2540,100:70C5E8&height=220&section=header&text=TaeHyun%20Kim&fontSize=46&fontColor=70C5E8&fontAlignY=32&desc=root%40security%3A~%24%20whoami&descAlignY=52&descSize=18&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Security+Engineer+(In+Training);SK%EC%89%B4%EB%8D%94%EC%8A%A4+%EB%A3%A8%ED%82%A4%EC%A6%88+31%EA%B8%B0;AI+%EA%B8%B0%EB%B0%98+%EB%B3%B4%EC%95%88%EA%B4%80%EC%A0%9C+%26+%EB%A1%9C%EA%B7%B8+%EB%B6%84%EC%84%9D;Now+Booting%3A+Final+Project+-+SOC+Monitoring..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70C5E8&center=true&vCenter=true&width=700&lines=Security+Engineer+(In+Training);SK%EC%89%B4%EB%8D%94%EC%8A%A4+%EB%A3%A8%ED%82%A4%EC%A6%88+31%EA%B8%B0;AI-Based+SOC+Monitoring+%26+Log+Analysis;Threat+Hunting+%7C+Malware+Analysis+%7C+Pentest;Now+Booting%3A+Final+Project+-+SOC+Monitoring..." alt="Typing SVG" />
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=bird8696&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black)
-![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL_3-00E5FF?style=for-the-badge&logo=authelia&logoColor=black)
-![Mission](https://img.shields.io/badge/MISSION-SOC_MONITORING-FF2FD8?style=for-the-badge&logo=datadog&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=bird8696&label=PROFILE+VIEWS&color=70C5E8&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-70C5E8?style=for-the-badge&logo=statuspage&logoColor=0d1117)
+![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL_3-0a2540?style=for-the-badge&logo=authelia&logoColor=70C5E8)
+![Mission](https://img.shields.io/badge/MISSION-SOC_MONITORING-70C5E8?style=for-the-badge&logo=datadog&logoColor=0d1117)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="tabi.jpg" width="300"/>
+  <img src="tabi.jpg" width="280" style="border-radius: 12px;"/>
 </div>
 
 <br/>
@@ -49,9 +49,9 @@ $ cat about_me.txt
 
 <br/><br/>
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-0a2540?style=for-the-badge&logo=pandas&logoColor=70C5E8)
+![Claude API](https://img.shields.io/badge/Claude_API-0a2540?style=for-the-badge&logo=anthropic&logoColor=70C5E8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a2540?style=for-the-badge&logo=streamlit&logoColor=70C5E8)
 
 </div>
 
@@ -69,9 +69,9 @@ $ cat about_me.txt
 
 **Certifications**
 
-![AWS](https://img.shields.io/badge/AWS_CLF--C02-취득-00ff9d?style=flat-square&logo=amazonaws&logoColor=black)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-필기_합격-yellow?style=flat-square&logo=readdotcv&logoColor=black)
-![리눅스마스터](https://img.shields.io/badge/리눅스마스터_2급-필기_합격-yellow?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_CLF--C02-취득-70C5E8?style=flat-square&logo=amazonaws&logoColor=0d1117)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-필기_합격-0a2540?style=flat-square&logo=readdotcv&logoColor=70C5E8)
+![리눅스마스터](https://img.shields.io/badge/리눅스마스터_2급-필기_합격-0a2540?style=flat-square&logo=linux&logoColor=70C5E8)
 
 <br/>
 
@@ -87,9 +87,9 @@ $ cat about_me.txt
 멀티 에이전트 오케스트레이션 기반 보안 위협 자동 분석 플랫폼.
 VirusTotal · SafeBrowsing API · GPT-4o-mini RAG 통합.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a2540?style=flat-square&logo=python&logoColor=70C5E8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a2540?style=flat-square&logo=fastapi&logoColor=70C5E8)
+![Claude API](https://img.shields.io/badge/Claude_API-0a2540?style=flat-square&logo=anthropic&logoColor=70C5E8)
 
 </td>
 <td width="50%" valign="top">
@@ -99,8 +99,8 @@ VirusTotal · SafeBrowsing API · GPT-4o-mini RAG 통합.
 Claude AI 기반 Zero-Shot 피싱 탐지 API.
 위험도 3단계 분류(LOW / MEDIUM / HIGH) · Swagger UI 제공.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a2540?style=flat-square&logo=python&logoColor=70C5E8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a2540?style=flat-square&logo=fastapi&logoColor=70C5E8)
 
 </td>
 </tr>
@@ -113,8 +113,8 @@ Claude AI 기반 Zero-Shot 피싱 탐지 API.
 KDD Cup 99 + RandomForest + Claude API 기반
 AI 보안 위협 탐지 시스템.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a2540?style=flat-square&logo=python&logoColor=70C5E8)
+![Streamlit](https://img.shields.io/badge/Streamlit-0a2540?style=flat-square&logo=streamlit&logoColor=70C5E8)
 
 </td>
 <td width="50%" valign="top">
@@ -125,8 +125,8 @@ AI 보안 위협 탐지 시스템.
 Korail API + scikit-learn 기반 KTX 연착 예측.
 GitHub Actions 자동 배포.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a2540?style=flat-square&logo=python&logoColor=70C5E8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a2540?style=flat-square&logo=scikitlearn&logoColor=70C5E8)
 
 </td>
 </tr>
@@ -139,8 +139,8 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 활용 실시간 AI 면접 평가.
 (담당: API 연동 및 AI 기능 구현)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a2540?style=flat-square&logo=javascript&logoColor=70C5E8)
+![Python](https://img.shields.io/badge/Python-0a2540?style=flat-square&logo=python&logoColor=70C5E8)
 
 </td>
 <td width="50%" valign="top">
@@ -153,7 +153,7 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 
 ## `❯` Mission Roadmap — SK쉴더스 루키즈 31기
 
-![Progress](https://img.shields.io/badge/PROGRESS-12%2F13_MODULES_(92%25)-00ff9d?style=for-the-badge&logo=checkmarx&logoColor=black)
+![Progress](https://img.shields.io/badge/PROGRESS-12%2F13_MODULES_(92%25)-70C5E8?style=for-the-badge&logo=checkmarx&logoColor=0d1117)
 
 - [x] Git / Notion 활용법
 - [x] 생성형 AI 활용 파이썬
@@ -175,10 +175,10 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&theme=chartreuse-dark&border_color=00ff9d" width="49%" alt="GitHub Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bird8696&layout=compact&hide_border=true&theme=chartreuse-dark&border_color=00ff9d" width="38%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=bird8696&show_icons=true&hide_border=true&bg_color=0d1117&title_color=70C5E8&icon_color=70C5E8&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bird8696&layout=compact&hide_border=true&bg_color=0d1117&title_color=70C5E8&text_color=c9d1d9" width="38%" />
 
-<img src="https://streak-stats.demolab.com?user=bird8696&theme=dark&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakNum=00ff9d&sideNums=00e5ff&currStreakLabel=00ff9d&sideLabels=c9d1d9&dates=8b949e&border=00ff9d" width="49%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=bird8696&theme=dark&background=0d1117&ring=70C5E8&fire=70C5E8&currStreakNum=70C5E8&sideNums=70C5E8&currStreakLabel=70C5E8&sideLabels=c9d1d9&dates=8b949e&border=70C5E8" width="49%" />
 
 </div>
 
@@ -200,7 +200,7 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:00ff9d,50:003b2f,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:70C5E8,50:0a2540,100:0d1117&height=100&section=footer)
 
 `connection secure // profile terminated with exit code 0`
 
