@@ -15,6 +15,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="tabi.jpg" width="300"/>
+</div>
+
+<br/>
+
 ```yaml
 $ cat about_me.txt
 ──────────────────────────────────────────────────────
