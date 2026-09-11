@@ -29,12 +29,6 @@
 <img src="tabi.jpg" width="240"/>
 </div>
 
---- 
-
-<div align="center">
-<img src="ascii-art.png" width="240"/>
-</div>
-
 ---
 
 ```bash
@@ -162,7 +156,7 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 
 | 기관 | 과정 | 상태 |
 |------|------|------|
-| SK쉴더스 루키즈 31기 | 생성형 AI 활용 사이버보안 전문인력 양성과정 | 🟢 진행 중 |
+| SK쉴더스 루키즈 31기 | 생성형 AI 활용 사이버보안 전문인력 양성과정 | ✅ 수료 |
 | 우송대학교 | IT융합 · 컴퓨터정보보안학과 | ✅ 수료 |
 | 2025 기업멤버쉽 아카데미 | SW / 콘텐츠 분야 | ✅ 수료 |
 | 2024 벤처스타트업 아카데미 | SW / 콘텐츠 분야 | ✅ 수료 |
@@ -172,17 +166,17 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 ```
 
 ![AWS](https://img.shields.io/badge/AWS_CLF--C02-CERTIFIED-70C5E8?style=flat-square&logo=amazonaws&logoColor=0d1117)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-필기_합격-0a2540?style=flat-square&logo=readdotcv&logoColor=70C5E8)
+![정보처리기사](https://img.shields.io/badge/정보처리기사 취득-0a2540?style=flat-square&logo=readdotcv&logoColor=70C5E8)
 ![리눅스마스터](https://img.shields.io/badge/리눅스마스터_2급-필기_합격-0a2540?style=flat-square&logo=linux&logoColor=70C5E8)
 
 ---
 
 ## `[04]` MISSION PROGRESS — SK쉴더스 루키즈 31기
 
-![Progress](https://img.shields.io/badge/PROGRESS-12%2F13_MODULES_92%25-70C5E8?style=for-the-badge&logo=checkmarx&logoColor=0d1117)
+![Progress](https://img.shields.io/badge/PROGRESS-13%2F13_MODULES_100%25-70C5E8?style=for-the-badge&logo=checkmarx&logoColor=0d1117)
 
 ```
-MODULES COMPLETED ████████████░ 92%
+MODULES COMPLETED █████████████ 100%
 ```
 
 - [x] `M01` Git / Notion 활용법
@@ -197,7 +191,7 @@ MODULES COMPLETED ████████████░ 92%
 - [x] `M10` 생성형 AI를 활용한 악성코드 분석 및 대응
 - [x] `M11` 생성형 AI를 활용한 AI 보안관제 및 통합 로그 분석
 - [x] `M12` 생성형 AI를 활용한 취약점 진단 및 모의해킹
-- [ ] **`M13` 최종 실무 프로젝트 — SOC 보안관제** `🟢 IN PROGRESS`
+- [x] **`M13` 최종 실무 프로젝트 — SOC 보안관제** `✅ COMPLETE`
 
 ---
 
