@@ -166,8 +166,8 @@ GPT-4 · LangChain · Web Speech API · MediaPipe
 ```
 
 ![AWS](https://img.shields.io/badge/AWS_CLF--C02-CERTIFIED-70C5E8?style=flat-square&logo=amazonaws&logoColor=0d1117)
-![정보처리기사](https://img.shields.io/badge/정보처리기사 취득-0a2540?style=flat-square&logo=readdotcv&logoColor=70C5E8)
-![리눅스마스터](https://img.shields.io/badge/리눅스마스터_2급-필기_합격-0a2540?style=flat-square&logo=linux&logoColor=70C5E8)
+![정보처리기사](https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%B7%A8%EB%93%9D-0a2540?style=flat-square&logo=readdotcv&logoColor=70C5E8)
+![리눅스마스터](https://img.shields.io/badge/%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A7%88%EC%8A%A4%ED%84%B0_2%EA%B8%89-%ED%95%84%EA%B8%B0_%ED%95%A9%EA%B2%A9-0a2540?style=flat-square&logo=linux&logoColor=70C5E8)
 
 ---
 
