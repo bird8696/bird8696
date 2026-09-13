@@ -11,6 +11,8 @@
  ╚═╝  ╚═╝╚══════╝ ╚═════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=800&color=70C5E8&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D+Loading+security+modules...;%5BOK%5D+Threat+Intelligence+......+ACTIVE;%5BOK%5D+Log+Analysis+Engine+......+ACTIVE;%5BOK%5D+AI+Malware+Analyzer+......+ACTIVE;%5BOK%5D+SOC+Monitoring+........+ACTIVE;%5BREADY%5D+Kim+TaeHyun+%40+SK+Shieldus+Rookies+31" alt="Typing SVG" />
+
 <br/> 
 
 ![](https://img.shields.io/badge/CLEARANCE-LV.3_ANALYST-70C5E8?style=flat-square&logo=authelia&logoColor=0d1117)
@@ -19,12 +21,6 @@
 ![](https://img.shields.io/badge/MISSION-FINAL_PROJECT_SOC-0a2540?style=flat-square&logo=datadog&logoColor=70C5E8)
 ![Visitors](https://komarev.com/ghpvc/?username=bird8696&label=PROFILE+ACCESS&color=70C5E8&style=flat-square)
 
-</div>
-
----
-
-<div align="center">
-<img src="tabi.jpg" width="240"/>
 </div>
 
 ---
